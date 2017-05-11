@@ -1,0 +1,1 @@
+function ate(){console.log("123")}
